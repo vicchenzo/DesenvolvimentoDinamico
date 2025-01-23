@@ -1,19 +1,18 @@
-// declaração do tipo + nome da variável = informação
+// ᴛʏᴘᴇ ᴅᴇᴄʟᴀʀᴀᴛɪᴏɴ + ᴠᴀʀɪᴀʙʟᴇ ɴᴀᴍᴇ = ɪɴғᴏʀᴍᴀᴛɪᴏɴ
 let mensagem = "Olá, Impressionador!";
 console.log(mensagem)
 
-// declaração do tipo let
+// ʟᴇᴛ ᴛʏᴘᴇ ᴅᴇᴄʟᴀʀᴀᴛɪᴏɴ
 let cor = 'Vermelho';
 console.log(cor)
 
-cor = 'Azul'; // PODEMOS REATRIBUIR O VALOR DA VÁRIAVEL
+cor = 'Azul'; // ᴡᴇ ᴄᴀɴ ʀᴇᴀssɪɢɴ ᴛʜᴇ ᴠᴀʟᴜᴇ ᴏғ ᴛʜᴇ ᴠᴀʀɪᴀʙʟᴇ
 console.log(cor);
-// Tipo let tem característica de ser um tipo mutavel;
-// não podemos criá-las novamente mas pode ser redeclaradas, podemos mudar o valor de dentro dessa caixa;
-// Uso dessa variável se dará quando precisarmos em algum momento reatribuir dentro do nosso programa esse valor;
+// ʟᴇᴛ ᴛʏᴘᴇ ʜᴀs ᴛʜᴇ ᴄʜᴀʀᴀᴄᴛᴇʀɪsᴛɪᴄ ᴏғ ʙᴇɪɴɢ ᴀ ᴍᴜᴛᴀʙʟᴇ ᴛʏᴘᴇ;
+// ᴡᴇ ᴄᴀɴɴᴏᴛ ᴄʀᴇᴀᴛᴇ ᴛʜᴇᴍ ᴀɢᴀɪɴ ʙᴜᴛ ᴛʜᴇʏ ᴄᴀɴ ʙᴇ ʀᴇᴅᴇᴄʟᴀʀᴇᴅ, ᴡᴇ ᴄᴀɴ ᴄʜᴀɴɢᴇ ᴛʜᴇ ᴠᴀʟᴜᴇ ɪɴsɪᴅᴇ ᴛʜɪs ʙᴏx;
+// ᴛʜɪs ᴠᴀʀɪᴀʙʟᴇ ᴡɪʟʟ ʙᴇ ᴜsᴇᴅ ᴡʜᴇɴ ᴡᴇ ɴᴇᴇᴅ ᴛᴏ ʀᴇᴀssɪɢɴ ᴛʜɪs ᴠᴀʟᴜᴇ ᴡɪᴛʜɪɴ ᴏᴜʀ ᴘʀᴏɢʀᴀᴍ ᴀᴛ sᴏᴍᴇ ᴘᴏɪɴᴛ;
 
-
-// TIPO CONST
+// ᴄᴏɴsᴛ ᴛʏᴘᴇ
 const segundaMensagem = 'Bem vindo!'
 console.log(segundaMensagem)
 
